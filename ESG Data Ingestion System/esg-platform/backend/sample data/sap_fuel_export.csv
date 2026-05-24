@@ -1,0 +1,16 @@
+Posting_Date,Material_Doc,Plant_Code,Material_Desc,Quantity,UOM,Cost_Center,Activity_Type,Notes
+20240103,5000012345,P001,Diesel Fuel,1234.5,LTR,CC-OPS-01,diesel,January fill
+20240110,5000012346,P001,Gasoline,250,Ltr,CC-FLEET-02,petrol,Fleet refuel
+20240115,5000012347,P002,Diesel - Road Use,1.500,M3,CC-OPS-01,diesel,Bulk delivery (m3)
+20240120,5000012348,P001,Natural Gas (GJ),450,Kg,CC-HVAC-01,natural_gas,HVAC building A
+20240128,5000012349,P003,Fuel Oil No.2,2.340,M3,CC-BOILER-01,fuel_oil,Boiler top-up
+20240202,5000012350,P001,Diesel Fuel,N/A,LTR,CC-OPS-01,diesel,METER FAULT - no reading
+20240205,5000012351,P002,LPG Propane,890,Ltr,CC-KITCHEN-01,lpg,Canteen
+20240210,5000012352,P001,Diesel - Generator,3.200,M3,CC-GEN-01,diesel,Emergency genset
+20240215,5000012353,P001,Petrol,1.234.56,Ltr,CC-FLEET-02,petrol,European format number
+20240220,5000012354,P004,Diesel,99999,LTR,CC-OPS-01,diesel,Suspiciously large value
+20240301,5000012355,P001,Diesel Fuel,750,liter,CC-OPS-01,diesel,March
+20240315,5000012356,P002,Gasoline,310,Gal,CC-FLEET-02,petrol,US gallons from supplier
+20240401,5000012357,P001,Diesel,,LTR,CC-OPS-01,diesel,Missing quantity
+20240415,5000012358,P003,Natural Gas,1200,KG,CC-HVAC-01,natural_gas,Q1 gas
+20240501,5000012359,P001,Diesel Fuel,-50,LTR,CC-OPS-01,diesel,Negative - credit note
